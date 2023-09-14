@@ -1,0 +1,15 @@
+.input {
+  padding: 20px;
+  border-radius: 20px;
+  border: 4px solid #000;
+  background: #d4fffa;
+  height: auto;
+  margin-bottom: 20px;
+  overflow-wrap: break-word;
+  height: 150px;
+  overflow-y: auto;
+}
+
+.output {
+  height: 250px;
+}
